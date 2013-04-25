@@ -1,0 +1,24 @@
+2013/03/16_08:39:06 Framework.DataLoader.loadDataFromFile():Begin load data from file E:\don\CopulaBN\data\\20NG\cs_inDomain-nominal.arff
+2013/03/16_08:39:15 Framework.DataLoader.loadDataFromFile():Total 3930 samples were loaded!
+2013/03/16_08:39:15 Framework.DataLoader.loadCSinDomain():Total 2960 samples will be used!
+2013/03/16_08:39:17 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8434840439350327, minority(err/cnt) 5/97, majority(err/cnt) 51/196, total cnt 293
+2013/03/16_08:39:17 Framework.mainFrame.main():classifier's accuracy is 0.8434840439350327, minority(err/cnt) 5/97, majority(err/cnt) 51/196, total cnt 293
+2013/03/16_08:39:18 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8726758994771742, minority(err/cnt) 3/98, majority(err/cnt) 44/197, total cnt 295
+2013/03/16_08:39:18 Framework.mainFrame.main():classifier's accuracy is 0.8726758994771742, minority(err/cnt) 3/98, majority(err/cnt) 44/197, total cnt 295
+2013/03/16_08:39:19 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8981159704247574, minority(err/cnt) 0/98, majority(err/cnt) 40/197, total cnt 295
+2013/03/16_08:39:19 Framework.mainFrame.main():classifier's accuracy is 0.8981159704247574, minority(err/cnt) 0/98, majority(err/cnt) 40/197, total cnt 295
+2013/03/16_08:39:20 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8624771843709074, minority(err/cnt) 2/98, majority(err/cnt) 50/197, total cnt 295
+2013/03/16_08:39:21 Framework.mainFrame.main():classifier's accuracy is 0.8624771843709074, minority(err/cnt) 2/98, majority(err/cnt) 50/197, total cnt 295
+2013/03/16_08:39:22 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8853804667278522, minority(err/cnt) 0/98, majority(err/cnt) 45/197, total cnt 295
+2013/03/16_08:39:22 Framework.mainFrame.main():classifier's accuracy is 0.8853804667278522, minority(err/cnt) 0/98, majority(err/cnt) 45/197, total cnt 295
+2013/03/16_08:39:23 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.885401091025337, minority(err/cnt) 2/98, majority(err/cnt) 41/197, total cnt 295
+2013/03/16_08:39:23 Framework.mainFrame.main():classifier's accuracy is 0.885401091025337, minority(err/cnt) 2/98, majority(err/cnt) 41/197, total cnt 295
+2013/03/16_08:39:24 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.865013972961546, minority(err/cnt) 1/98, majority(err/cnt) 51/197, total cnt 295
+2013/03/16_08:39:24 Framework.mainFrame.main():classifier's accuracy is 0.865013972961546, minority(err/cnt) 1/98, majority(err/cnt) 51/197, total cnt 295
+2013/03/16_08:39:25 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8777804131046787, minority(err/cnt) 4/98, majority(err/cnt) 40/197, total cnt 295
+2013/03/16_08:39:26 Framework.mainFrame.main():classifier's accuracy is 0.8777804131046787, minority(err/cnt) 4/98, majority(err/cnt) 40/197, total cnt 295
+2013/03/16_08:39:27 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8930217689459954, minority(err/cnt) 0/98, majority(err/cnt) 42/197, total cnt 295
+2013/03/16_08:39:27 Framework.mainFrame.main():classifier's accuracy is 0.8930217689459954, minority(err/cnt) 0/98, majority(err/cnt) 42/197, total cnt 295
+2013/03/16_08:39:28 imbalanceText.underSampling.buildClassifier():0th iteration classifier's accuracy is 0.8701184865890506, minority(err/cnt) 2/98, majority(err/cnt) 47/197, total cnt 295
+2013/03/16_08:39:28 Framework.mainFrame.main():classifier's accuracy is 0.8701184865890506, minority(err/cnt) 2/98, majority(err/cnt) 47/197, total cnt 295
+2013/03/16_08:39:28 Framework.mainFrame.main():average accuracy is 0.8753469297562333
